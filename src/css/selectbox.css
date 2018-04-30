@@ -124,6 +124,9 @@
 
 .Select-menu-outer{
     padding: 10px;
+    border:1px solid #ccc;
+    border-radius: 4px;
+    line-height: 30px;
 }
 
 .Select-clear{
